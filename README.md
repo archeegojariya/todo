@@ -9,7 +9,8 @@ A simple command-line To-Do application in Python to manage your tasks.
 - Persist tasks using a JSON file
 
 ## Installation
-1. Clone this repository:
+
+Clone this repository:
 
 git clone https://github.com/archeegojariya/todo.git
 
