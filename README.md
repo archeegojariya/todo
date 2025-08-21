@@ -10,7 +10,7 @@ A simple command-line To-Do application in Python to manage your tasks.
 
 ## Installation
 1. Clone this repository:
-```bash
+
 git clone https://github.com/archeegojariya/todo.git
 cd todo
 
